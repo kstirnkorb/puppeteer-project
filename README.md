@@ -18,8 +18,6 @@ This should take a couple of minutes. If there are issues, please post the compl
 
 # To Run the npm run test, npm run test:device and npm run test:e2e
 
-In order to be able to provide realistic examples, we will need in our playground a small REST API backend server. We can start the sample application backend with the following command:
-
     npm run test
     npm run test:device
     npm run test:e2e
